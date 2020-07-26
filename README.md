@@ -14,7 +14,7 @@ If you're not sure how to create a Discord webhook, check out [Intro to Webhooks
 ## Running Locally
 Make sure you have [Node.js](http://nodejs.org/) installed as well as Git SCM ([Windows](https://git-scm.com/download/win) | [Mac](https://git-scm.com/download/mac) | [Linux](https://git-scm.com/download/linux)) if you're going to go this route. Otherwise, simply clone the repo or download it and unzip it to a folder on your desktop.
 ```bash
-$ git clone https://github.com/acollierr17/donald-node.git # or fork
+$ git clone https://github.com/RustWarfareElite/twitter-to-discord.git
 $ cd donald-node
 $ npm install
 ```
