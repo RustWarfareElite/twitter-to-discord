@@ -1,10 +1,6 @@
-# donald-node
+# twitter-node
 
-[![Join the Discord](https://discordapp.com/api/guilds/480231440932667393/embed.png)](https://discord.gg/g7wr8xb)
-
-A Node.js application that posts tweets by [@realDonaldTrump](https://twitter.com/realDonaldTrump) to a Discord webhook.
-
-![](https://i.imgur.com/em4QgSw.png)
+A Node.js application that posts tweets to a Discord webhook.
 
 ## Pre-requisites
 There are a few pre-requisites you will need to run this application:
